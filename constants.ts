@@ -4,7 +4,7 @@ export const MAX_FREE_COUNTS = 5;
 
 export const tools = [
   {
-    label: 'Conversation-test2',
+    label: 'Conversation-test3',
     icon: MessageSquare,
     href: '/conversation',
     color: "text-violet-500",
